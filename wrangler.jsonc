@@ -7,7 +7,7 @@
 	"name": "my-blog",
 	"compatibility_date": "2025-07-19",
 	"assets": {
-		"directory": "./static"
+		"directory": "./build"
 	},
 	"observability": {
 		"enabled": true
